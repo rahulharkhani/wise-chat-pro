@@ -1,0 +1,12 @@
+/* Default theme CSS */
+.wcMessage .wcAdminAction {
+    top: 0.2rem;
+}
+
+.wcMessage .wcMessageQuoted .wcMessageQuotedContent, .wcMessage .wcMessageQuoted .wcMessageUser {
+    color: #5a5a5a;
+}
+
+.wcMessage .wcMessageQuoted .wcMessageQuotedContent, .wcMessage .wcMessageQuoted .wcMessageUser, .wcMessage .wcMessageQuoted .wcMessageTime {
+    font-size: 0.8em; line-height: 1.1em;
+}
