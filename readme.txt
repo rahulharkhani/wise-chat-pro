@@ -529,3 +529,5 @@ After you type a message use the key combination: Shift + ENTER
 = 1.0 =
 
 Initial version
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulharkhani&show_icons=true&theme=dark)
